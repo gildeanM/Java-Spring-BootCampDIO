@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bancoDigital/bancoDigital.iml" filepath="$PROJECT_DIR$/bancoDigital/bancoDigital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafiosStreamApi/desafiosStreamApi.iml" filepath="$PROJECT_DIR$/desafiosStreamApi/desafiosStreamApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapInterface/mapInterface.iml" filepath="$PROJECT_DIR$/mapInterface/mapInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setInterface/setInterface.iml" filepath="$PROJECT_DIR$/setInterface/setInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trilha-orientacao-a-objetos.iml" filepath="$PROJECT_DIR$/.idea/trilha-orientacao-a-objetos.iml" />
+    </modules>
+  </component>
+</project>
