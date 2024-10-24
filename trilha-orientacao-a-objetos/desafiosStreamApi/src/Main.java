@@ -6,7 +6,8 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
-        List<Integer> numeros = Arrays.asList(1, 1,1,1,1,1,3, 15,15);
+        List<Integer> numeros = Arrays.asList(1,13,1,31,11,312);
+
 
         /* DESAFIO 01*/
 //        Desafio1 desafio1 = new Desafio1(numeros);
@@ -109,18 +110,9 @@ public class Main {
 
 
         /* DESAFIO 19*/
-        Desafio19 desafio19 = new Desafio19(numeros);
-
-        desafio19.somaDosNumerosDivisiveisPorTresECinco();
-
-
-
-
-        
-        
-
-
-
+//        Desafio19 desafio19 = new Desafio19(numeros);
+//
+//        desafio19.somaDosNumerosDivisiveisPorTresECinco();
 
 
     }

@@ -1,50 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b20574b7-4687-43bc-9de9-ea4fb62bd1be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/bancoDigital/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/bancoDigital/bancoDigital.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/bancoDigital/src/Banco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/bancoDigital/src/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/bancoDigital/src/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/bancoDigital/src/ContaCorrente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/bancoDigital/src/ContaPoupanca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/bancoDigital/src/IConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/bancoDigital/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Desafio9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-orientacao-a-objetos/desafiosStreamApi/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/contaBanco/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/contaBanco/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/contaBanco/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/contaBanco/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/contaBanco/contaBanco.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/contaBanco/src/ContaTerminal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/desafioControleFluxo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/desafioControleFluxo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/desafioControleFluxo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/desafioControleFluxo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/desafioControleFluxo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/desafioControleFluxo/desafioControleFluxo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/desafioControleFluxo/src/Contador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-basico/trilha-sintaxe/desafioControleFluxo/src/ParametrosInvalidosException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafiosStreamApi/src/Desafio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafiosStreamApi/src/Desafio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafiosStreamApi/src/Desafio15.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafiosStreamApi/src/Desafio15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafiosStreamApi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafiosStreamApi/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +24,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/The Brothers/Documents/projetos/internet/java-spring-claro-dio-bootcamp/trilha-orientacao-a-objetos"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/The Brothers/Documents/projetos/internet/java-spring-claro-dio-bootcamp/trilha-orientacao-a-objetos&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

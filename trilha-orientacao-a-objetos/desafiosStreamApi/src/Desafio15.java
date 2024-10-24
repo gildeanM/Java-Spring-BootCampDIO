@@ -11,6 +11,7 @@ public class Desafio15 {
 
     public void contemNumeroNegativo(){
 
+
         boolean contemNumeroNegativo = numeros.stream().anyMatch(num -> num < 0);
 
         System.out.println(contemNumeroNegativo ? "Contém número negativo" : "Não contém número negativo");
