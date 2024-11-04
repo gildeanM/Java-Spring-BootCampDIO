@@ -7,6 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
+import java.util.List;
+
 @Component
 public class StartApp implements CommandLineRunner {
 
@@ -15,6 +17,25 @@ public class StartApp implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
+
+//        List<User> users = repository.findByNameContaining("Pedro");
+
+//        User user = repository.findByUsername("richard32");
+
+        List<User> users = repository.filtrarPorNome("Gildean");
+
+
+        if(users.isEmpty()) throw new RuntimeException("Nenhum usuario foi encontrado!");
+        for(User u: users){
+            System.out.println(u);
+        }
+//        if(user == null) throw new RuntimeException("Nenhum usuario foi encontrado!");
+//        System.out.println(user);
+
+
+    }
+
+    private void insertUser(){
         User user = new User();
         user.setName("Gildean");
         user.setUsername("gilms");
@@ -27,4 +48,5 @@ public class StartApp implements CommandLineRunner {
         }
 
     }
+
 }
