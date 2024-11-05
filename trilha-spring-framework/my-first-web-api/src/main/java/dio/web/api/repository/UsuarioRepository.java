@@ -44,6 +44,11 @@ public class UsuarioRepository {
         return new Usuario("gleyson", "password");
     }
 
+    public void update(Usuario usuario){
+        System.out.println("UPDATE - Recebendo o usuário na camada de repositório");
+        System.out.println(usuario);
+    }
+
 
 
 
