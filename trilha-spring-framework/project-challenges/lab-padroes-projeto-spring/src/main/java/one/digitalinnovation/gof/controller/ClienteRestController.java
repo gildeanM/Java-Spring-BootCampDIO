@@ -36,7 +36,7 @@ public class ClienteRestController {
     }
 
 
-    @DeleteMapping("/id")
+    @DeleteMapping("/{id}")
     public ResponseEntity<Void> deletar(@PathVariable("id") Long id){
         clienteService.deletar(id);
         return ResponseEntity.ok().build();
